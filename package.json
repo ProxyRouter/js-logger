@@ -1,0 +1,23 @@
+{
+  "name": "proxyrouter-logger",
+  "version": "0.1.0",
+  "description": "The official ProxyRouter.net JS logger.",
+  "main": "index.js",
+  "homepage": "https://www.proxyrouter.net",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ProxyRouter/js-logger"
+  },
+  "dependencies": {},
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "proxyrouter",
+    "logger",
+    "github"
+  ],
+  "author": "ProxyRouter",
+  "license": "ISC"
+}
